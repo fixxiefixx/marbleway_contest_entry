@@ -1,0 +1,21 @@
+Material My Material : Common/MatDefs/Light/Lighting.j3md {
+     MaterialParameters {
+        DiffuseMap : Repeat Textures/bk/bk_color.png
+        SpecularMap : Repeat Textures/bk/bk_spec.png
+        NormalMap : Repeat Textures/bk/bk_normal.png
+        HighQuality : true
+        VTangent : false
+        UseVertexColor : false
+        SteepParallax : false
+        UseMaterialColors : false
+        PackedNormalParallax : false
+        LowQuality : false
+        HardwareShadows : false
+        ParallaxHeight : 1.0
+        FilterMode : 0
+        Shininess : 0.0
+        VertexLighting : false
+     }
+    AdditionalRenderState {
+    }
+}
